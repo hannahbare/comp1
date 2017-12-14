@@ -1,1 +1,64 @@
+@import 'reset.css';
 
+body {
+  padding: 1em;
+  font-family: 'Raleway', sans-serif;
+}
+
+.top-information {
+  height: 200px;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+  padding: .5em;
+}
+p {
+  padding: .75em;
+  font-size: 1.25em;
+}
+.top-btns {
+  font-size: .75em;
+  padding: .5em;
+  width: 170px;
+  border: .25em solid black;
+}
+#about-tony {
+  margin: 0 .25em .5em .75em;
+}
+#contact-tony {
+  margin: 0 0 .5em .25em;
+}
+.boxes {
+  display: inline-block;
+  height: 100px;
+  width: 49%;
+}
+
+#location-box {
+/*  height: 100px;
+  width: 49%;
+  display: inline-block;*/
+
+}
+#products-box {
+/*  height: 100px;
+  width: 49%;*/
+}
+#commissions-box {
+/*  height: 100px;
+  width: 49%;*/
+}
+#social-media-box {
+
+}
+//unsure what this next box will be
+
+#experience-box {
+
+}
+#reviews-box {
+
+}
