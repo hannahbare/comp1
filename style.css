@@ -153,7 +153,6 @@ p {
   display: flex;
   flex-basis: 33.33%;
   flex-direction: column;
-  flex: 1;
   font-size: 1rem;
   height: 33.33%;
   justify-content: center;
