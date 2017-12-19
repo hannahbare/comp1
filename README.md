@@ -4,4 +4,4 @@ This was our first static comp on Mod1 FEE. Requirements included maintaining th
 
 ![Original Static Comp Image][https://github.com/hannahbare/comp1/blob/master/Screen%20Shot%202017-12-18%20at%2011.11.11%20PM.png]
 
-![Original Static Comp Image] (https://github.com/hannahbare/comp1/blob/master/Screen%20Shot%202017-12-18%20at%2011.11.11%20PM.png "Static Comp #1")
+![alt text][https://github.com/hannahbare/comp1/blob/master/Screen%20Shot%202017-12-19%20at%2010.43.17%20AM.png]
